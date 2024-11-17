@@ -1,0 +1,12 @@
+# Ignore dependency files
+go.sum
+
+# Ignore binaries
+*.exe
+*.out
+*.a
+
+# Ignore editor settings
+.vscode/
+.idea/
+.DS_Store
